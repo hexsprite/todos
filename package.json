@@ -12,10 +12,12 @@
   },
   "dependencies": {
     "autoprefixer": "^6.4.1",
-    "faker": "^3.0.1"
+    "faker": "^3.0.1",
+    "meteor-node-stubs": "^0.2.3"
   },
   "devDependencies": {
     "babel-eslint": "^6.1.2",
+    "chai": "^3.5.0",
     "eslint": "^3.5.0",
     "eslint-config-airbnb": "^11.1.0",
     "eslint-import-resolver-meteor": "^0.3.3",
